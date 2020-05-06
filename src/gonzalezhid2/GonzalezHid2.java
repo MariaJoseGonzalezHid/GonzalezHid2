@@ -16,6 +16,7 @@ public class GonzalezHid2 {
      */
     public static void main(String[] args) {
         System.out.println("Hola primer repositorio");
+        System.out.println("actualizando repositorio");
         // TODO code application logic here
     }
     
